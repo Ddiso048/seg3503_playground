@@ -1,0 +1,101 @@
+
+Thanks for using JUnit! Support its development at https://junit.org/sponsoring
+
+[36m?[0m
+[36m??[0m [36mJUnit Jupiter[0m [32m?[0m
+[36m?  ??[0m [36mDateTest[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_invalid_tc16()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_invalid_tc17()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_invalid_tc18()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_invalid_tc19()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_invalid_tc20()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc01()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc02()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc03()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc04()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc05()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc06()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc07()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc08()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc09()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc10()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc11()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc12()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc13()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc14()[0m [32m?[0m
+[36m?  ?  ??[0m [34mnextDate_tc15()[0m [32m?[0m
+[36m?  ??[0m [36mDateCoverageTest[0m [32m?[0m
+[36m?     ??[0m [34mconstructorRejectsInvalidDaysMonthsAndYears()[0m [32m?[0m
+[36m?     ??[0m [34mleapYearRulesCoverCenturyCases()[0m [32m?[0m
+[36m?     ??[0m [34mequalsCoversAllOutcomes()[0m [32m?[0m
+[36m?     ??[0m [34mnextDateCoversNormalEndOfMonthLeapAndYearChange()[0m [32m?[0m
+[36m?     ??[0m [34mconstructorAcceptsBoundaryValidDates()[0m [32m?[0m
+[36m??[0m [36mJUnit Vintage[0m [32m?[0m
+[36m   ??[0m [36mDateNextDateOkTest[0m [32m?[0m
+[36m   ?  ??[0m [36m[0][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[0][0m [32m?[0m
+[36m   ?  ??[0m [36m[1][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[1][0m [32m?[0m
+[36m   ?  ??[0m [36m[2][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[2][0m [32m?[0m
+[36m   ?  ??[0m [36m[3][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[3][0m [32m?[0m
+[36m   ?  ??[0m [36m[4][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[4][0m [32m?[0m
+[36m   ?  ??[0m [36m[5][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[5][0m [32m?[0m
+[36m   ?  ??[0m [36m[6][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[6][0m [32m?[0m
+[36m   ?  ??[0m [36m[7][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[7][0m [32m?[0m
+[36m   ?  ??[0m [36m[8][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[8][0m [32m?[0m
+[36m   ?  ??[0m [36m[9][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[9][0m [32m?[0m
+[36m   ?  ??[0m [36m[10][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[10][0m [32m?[0m
+[36m   ?  ??[0m [36m[11][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[11][0m [32m?[0m
+[36m   ?  ??[0m [36m[12][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[12][0m [32m?[0m
+[36m   ?  ??[0m [36m[13][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtestNextDate[13][0m [32m?[0m
+[36m   ?  ??[0m [36m[14][0m [32m?[0m
+[36m   ?     ??[0m [34mtestNextDate[14][0m [32m?[0m
+[36m   ??[0m [36mDateExceptionTest[0m [32m?[0m
+[36m   ?  ??[0m [36m[0][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtests[0][0m [32m?[0m
+[36m   ?  ??[0m [36m[1][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtests[1][0m [32m?[0m
+[36m   ?  ??[0m [36m[2][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtests[2][0m [32m?[0m
+[36m   ?  ??[0m [36m[3][0m [32m?[0m
+[36m   ?  ?  ??[0m [34mtests[3][0m [32m?[0m
+[36m   ?  ??[0m [36m[4][0m [32m?[0m
+[36m   ?     ??[0m [34mtests[4][0m [32m?[0m
+[36m   ??[0m [36mDateNextDateExceptionTest[0m [32m?[0m
+[36m      ??[0m [36m[0][0m [32m?[0m
+[36m      ?  ??[0m [34mtestNextDate[0][0m [32m?[0m
+[36m      ??[0m [36m[1][0m [32m?[0m
+[36m      ?  ??[0m [34mtestNextDate[1][0m [32m?[0m
+[36m      ??[0m [36m[2][0m [32m?[0m
+[36m      ?  ??[0m [34mtestNextDate[2][0m [32m?[0m
+[36m      ??[0m [36m[3][0m [32m?[0m
+[36m      ?  ??[0m [34mtestNextDate[3][0m [32m?[0m
+[36m      ??[0m [36m[4][0m [32m?[0m
+[36m         ??[0m [34mtestNextDate[4][0m [32m?[0m
+
+Test run finished after 99 ms
+[        32 containers found      ]
+[         0 containers skipped    ]
+[        32 containers started    ]
+[         0 containers aborted    ]
+[        32 containers successful ]
+[         0 containers failed     ]
+[        50 tests found           ]
+[         0 tests skipped         ]
+[        50 tests started         ]
+[         0 tests aborted         ]
+[        50 tests successful      ]
+[         0 tests failed          ]
+
